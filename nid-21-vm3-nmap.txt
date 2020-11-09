@@ -1,0 +1,9 @@
+Starting Nmap 7.70 ( https://nmap.org ) at 2020-11-08 23:06 EST
+Nmap scan report for mail.sknasser1.com (192.168.21.25)
+Host is up (0.0000090s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+
+Nmap done: 1 IP address (1 host up) scanned in 1.60 seconds
